@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 🎓I'm a Student and Cloud Enthusiast. <br/>
-💻I’m currently Working on Linux Administration v9.<br/>
+💻I’m currently Working on Certified Kubernetes Administrator.<br/>
 🚀I’m currently learning DevOps.<br/>
 
 <br>
